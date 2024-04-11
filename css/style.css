@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* Name: Susana Cajavilca Turco - cod#: 200553998 */
+
+body {
+    font-family: 'Lucida Sans', sans-serif;  /*font text*/
+    width: 800px;
+    margin-left: 4%; /*adding a margin space to the left for better visualization*/
+}
+
+h1 {
+    font-size: 40px;  /*Main Title of the webpage*/
+}
+
